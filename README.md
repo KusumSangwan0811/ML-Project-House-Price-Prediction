@@ -11,7 +11,8 @@ Step-by-step process:
 3. Train a linear regression model, make predictions and evaluate the model
 4. Train, evaluate and interpret decision tree and random forest
 5. Tune hyperparameters to improve the model
-6. Make predictions and save the model
+6. Make predictions and submit to Kaggle
+7. Save the model
 
 
 This is a project  that I have done in the course Machine Learning with Python: Zero to GBMs.
